@@ -46,3 +46,12 @@ def start_game():
         print("That's cool, have a good one!")
 if __name__ == '__main__':
     start_game()
+    
+    
+    
+    
+    
+#     its nice & easy
+    
+    
+    
